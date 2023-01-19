@@ -1,6 +1,6 @@
 # P4_ReseauSocial_PHP/Team_mwaj
 
-Ce projet collectif à pour but de créer un site web dynamique avec à une base de donnée. Et plus précisément un réseau social en PHP. 
+Ce projet collectif à pour but de créer un site web dynamique avec une base de donnée. Et plus précisément un réseau social en PHP. 
 
 Objectif:
 
@@ -13,7 +13,7 @@ Objectif:
 <p><img align="center" alt="" src="https://github.com/Alexluu13/P4_ReseauSocial-PHP-mwaj/blob/main/reseau_social3.png"/></p>
 
 
-Ce réseau social à pour thème le cinéma, s'inspirant du site connu allociné. Avec comme possibilité de s'inscrire, de se connecter, de faire une recherche sur un(e) film/série et de le commenter.
+Ce réseau social à pour thème le cinéma, s'inspirant du site connu allociné. On a la possibilité de s'inscrire, de se connecter, de faire une recherche sur un(e) film/série et de le commenter.
 
 Pour faire fonctionner le site.
 - Démarrer le serveur "apache" avec MAMP.
