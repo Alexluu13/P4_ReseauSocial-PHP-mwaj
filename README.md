@@ -13,7 +13,7 @@ Objectif:
 <p><img align="center" alt="" src="https://github.com/Alexluu13/P4_ReseauSocial-PHP-mwaj/blob/main/reseau_social3.png"/></p>
 
 
-Ce réseau social à pour thème le cinéma, s'inspirant du site connu allociné. On a la possibilité de s'inscrire, de se connecter, de faire une recherche sur un(e) film/série et de le commenter.
+Un réseau social sur le cinéma. Avec la possibilité de s’authentifier et de créer un compte. Après ça l’utilisateur pourra laisser des commentaires sur le film/série qu’il préfère. Il pourra également chercher son film/série et avoir des informations dessus. 
 
 Pour faire fonctionner le site.
 - Démarrer le serveur "apache" avec MAMP.
