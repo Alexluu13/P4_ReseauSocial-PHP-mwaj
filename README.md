@@ -6,7 +6,7 @@ Objectif:
 
 - Enrichir ce site de nouveaux contenus fournis par les utilisateurs avec des formulaires.
 - Gérer les authentifications (login),sessions, autorisations (droits d’accès) et inscriptions.
-- Avoir un premier aperçu de : la conception web, de la conception base de donnée, des problématiques d’un projet multi-langages.
+- Avoir un premier aperçu : de la conception web, de la conception base de donnée, des problématiques d’un projet multi-langages.
 
 <p><img align="center" alt="" src="https://github.com/Alexluu13/P4_ReseauSocial-PHP-mwaj/blob/main/reseau_social1.png"/></p>
 <p><img align="center" alt="" src="https://github.com/Alexluu13/P4_ReseauSocial-PHP-mwaj/blob/main/reseau_social2.png"/></p>
